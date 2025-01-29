@@ -1,3 +1,5 @@
+package practicejava;
+
 public class Employee implements Comparable<Employee> {
     String name;
     int salary;
